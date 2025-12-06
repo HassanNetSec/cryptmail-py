@@ -124,10 +124,6 @@ Create a `.env` file in the `backend` directory:
 ```env
 # Encryption Key (Generate using Python)
 ENCRYPTION_KEY=your_generated_key_here
-
-# Optional: Custom settings
-ACCOUNT_COOLDOWN=60
-PORT=8000
 ```
 
 **Generate an Encryption Key:**
@@ -400,3 +396,4 @@ If you found this project helpful, please give it a ⭐️!
 </div>
 why 
 We’ve detected the file encoding as UTF-16LE. When you commit changes we will transcode it to UTF-8.
+
